@@ -1,0 +1,89 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 2C4E-CB1B
+
+ Directory of C:\Users\vacomitikm\Documents\GitHub\VA_DATA_ASSETS
+
+05/12/2014  03:39 PM    <DIR>          .
+05/12/2014  03:39 PM    <DIR>          ..
+03/24/2014  10:41 AM            11,012 Age_of_Children_Who_began_receiving_DIC_Benefits_During_FY2012.xlsx
+03/24/2014  10:40 AM            11,354 Age_of_surviving_spouses_Who_began_receiving_DIC_Benefits_During_FY2012.xlsx
+03/24/2014  10:43 AM            11,213 Age_of_veterans_Receiving_Service_connected_Compensation_at_the_end_of_FY2012.xlsx
+03/24/2014  10:45 AM            11,105 Age_of_veterans_Who_Began_Receiving_Service_connected_Compensation_during_FY2012.xlsx
+02/26/2014  02:54 PM            11,239 Beneficiaries Who Began receiving Education Benefits by Training Time and Program During Fiscal Year 2012.xlsx
+02/26/2014  02:45 PM            10,660 Beneficiaries Who Received Education Benefits During Fiscal Year 2012.xlsx
+03/24/2014  10:47 AM            11,311 Beneficiaries_receiving_DIC_Benefits_by_period_of_service_at_the_end_of_FY2012.xlsx
+03/24/2014  10:48 AM            10,886 Beneficiaries_Receiving_DIC_by_relationship_at_the_end_of_FY2012.xlsx
+03/24/2014  11:58 AM            10,776 Beneficiaries_who_began_receiving_comp_and_DIC_benefits_during_FY2012.xlsx
+03/24/2014  10:48 AM            11,064 Beneficiaries_who_began_receiving_DIC_by_FY.xlsx
+03/24/2014  10:49 AM            11,074 Children_receiving_DIC_by_age_at_the_end_of_FY2012.xlsx
+03/24/2014  01:36 PM            11,274 Combined_Degree_of_Service_Connected_Disabilities_for_Veterans_WHo_began_receiving_compensation_byFY.xlsx
+03/24/2014  02:46 PM            13,933 Disabilities_by_Gender_for_GWOT_Veterans_receiving_Comp_attheEndof_FY2012.xlsx
+03/24/2014  02:20 PM            11,286 Disability-Most Prevalent Service Connected Disabilities for veterans Who Began Receiving Compensation During FY 2012.xlsx
+02/26/2014  01:06 PM            10,724 Education beneficiaries by Program by Fiscal Year.xlsx
+02/26/2014  02:25 PM            10,945 Education beneficiaries who began receiving Education benefits by type of Training and Program During Fiscal Year 2012.xlsx
+02/25/2014  12:48 PM            11,084 Entitlement_Loans_Guaranteed_by_Fiscal_Year.xlsx
+05/12/2014  03:40 PM                 0 files_from_sreedahr.txt
+03/20/2014  03:07 PM            11,503 Frequency_of_Ind_Ser_con_Disabilities_by_body_system_for_veterans_rec_Comp_at_the_end_of_FY2012.xlsx
+03/24/2014  02:44 PM            13,361 GWOT_Disabilities_by_Body_system_and_Gender_for_Veterans_receiving_Comp_at_the_End_of_FY2012.xlsx
+03/24/2014  02:43 PM            11,460 GWOT_Service_Connected_Disability_Benefits_by_Combined_PCT_of_Disability_for_Veterans_receiving_Comp_at_the_End_of_FY2012.xlsx
+02/25/2014  01:01 PM            11,331 Home_Loans-Guaranteed-Based-on_Gender_and_Age_During_Fiscal_Year_2012.xlsx
+03/24/2014  02:24 PM            11,735 Individual_Service_connected_Disabilities_by_evaluation_for_veterans_receiving_Compensation_at_the_end_of_FY2012.xlsx
+02/28/2014  11:52 AM            11,027 Insurance- 2012 rankings by total Life Insurance In-Force.xlsx
+03/11/2014  04:02 PM            14,252 Insurance- Age Distribution for Insurance Programs- complete.xlsx
+03/11/2014  04:00 PM            14,237 Insurance- Age Distribution for Insurance Programs- not complete.xlsx
+03/11/2014  01:10 PM            12,176 Insurance- Age Distribution for Insurance Programs.xlsx
+03/11/2014  11:16 AM            10,773 Insurance- Insurance Monthly Installment Award Payments to Beneficiaries in Fiscal Year 2012.xlsx
+03/07/2014  03:03 PM            11,884 Insurance- Insurance Monthly Installment Award Payments to Policy holders at the End of Fiscal Year 2012.xlsx
+03/11/2014  11:32 AM            10,596 Insurance- Life Insurace Policies in Force by Fiscal Year 9 Number of Policies).xlsx
+03/07/2014  01:21 PM            10,621 Insurance- Life Insurance Dididend payment by Fiscal Years.xlsx
+03/07/2014  02:03 PM            11,432 Insurance- Lump-Sum Payments Made on Policies matured Due to death During Fiscal year 2012.xlsx
+03/07/2014  01:11 PM            12,119 Insurance- Lumpum Payment made to Policy Holders During Fiscal Year 2012.xlsx
+02/28/2014  02:14 PM            11,057 Insurance- New Life Insurance Coverage Issued During Fiscal Year 2012.xlsx
+03/07/2014  02:14 PM            10,564 Insurance- Number of Death Claims Paid by Fiscal Year.xlsx
+03/07/2014  12:09 PM            10,806 Insurance- Policy Lapses During Fiscal Year 2012.xlsx
+03/11/2014  11:25 AM            11,110 Insurance- Total Insurance Policies in-Force During Fiscal Year 2012.xlsx
+02/26/2014  04:45 PM            10,857 Insurance-Benefits paid by Fiscal Year.xlsx
+02/27/2014  01:30 PM            10,742 Insurance-Death Awards ( Amount) by Fiscal Year.xlsx
+02/27/2014  01:28 PM            10,761 Insurance-Death Awards ( Number) by Fiscal Year.xlsx
+03/11/2014  02:31 PM            11,156 Insurance-FSGLI Coverage Level- Active Duty and Reserve Duty.xlsx
+02/27/2014  01:32 PM            11,270 Insurance-Number of Operations Processsed on Administered Policies by Fiscal Year.xlsx
+02/28/2014  11:03 AM            10,949 Insurance-Programs That Issue Coverage.xlsx
+02/27/2014  01:34 PM            10,672 Insurance-Programs That No Longer Issue Coverage.xlsx
+03/13/2014  09:49 AM            13,078 Insurance-SGLI Coverage by Branch and Component of Service.xlsx
+03/11/2014  02:30 PM            11,174 Insurance-SGLI Coverage Level- Active Duty and Reserve Duty.xlsx
+02/26/2014  04:38 PM            10,842 Lives Insured by Fiscal Year.xlsx
+02/25/2014  12:41 PM            11,528 Loans_Guaranteed-by_Period_of_Service_Entitlement_During_Fiscal_Year_2012.xlsx
+02/26/2014  12:06 PM            10,555 Loans_Guaranteed_by_Race_by_Fiscal_Year.xlsx
+02/26/2014  11:31 AM            10,821 Loans_Guaranteed_by_Race_During_Fiscal_Year_2012.xlsx
+03/24/2014  10:54 AM            13,305 Most_Prevalent_DIsabilities_for_Veterans_Receiving_Compensation_at_the_End_of_Fiscal_Year_2012.xlsx
+03/24/2014  11:31 AM            13,478 Most_Prevalent_Disbilities_by_Period_of_Service_at_the_End_of_Fiscal_year_2012.xlsx
+03/24/2014  02:28 PM            14,146 Most_Prevalent_Service_Connected_Disabilities.xlsx
+03/24/2014  12:02 PM            10,858 Most_Prevalent_Service_Connected_Disbilities_for_Veterans_Receiving_Compensation_at_the_end_of_FY2012.xlsx
+03/24/2014  03:06 PM            11,259 Most_Prevalent_Service_Connected_Disbilities_for_Veterans_Who_began_Receiving_Compensation_during_FY2012.xlsx
+02/25/2014  04:37 PM            10,856 Number_of_Loans_Guarantted_by_Age_by_Fiscal_Year.xlsx
+03/24/2014  11:57 AM            10,800 Number_of_Veterans_and_Survivors_receiving_compensation_Benefits_by_end_of_ FY 2012.xlsx
+03/24/2014  02:23 PM            11,573 Number_of_veterans_with_service_connected_disabilities_receiving_Compensation_by_Combined_percent_by_FY.xlsx
+02/25/2014  04:37 PM            10,856 Percent_of_Loans_Guaranteed_by_Age_by_Fiscal_Year.xlsx
+02/25/2014  04:26 PM            11,179 PUrchase_Loans_Guaranteed_Based_on_Annual_Income_During_Fiscal_Year_2012.xlsx
+03/24/2014  01:33 PM            11,795 Service_Connected_Benefits_by_Combined_Degree_for_ Veterans_Who_Began_Receiving_Compensation_during_FY2012.xlsx
+03/24/2014  01:31 PM            11,472 Service_connected_Benefits_by_combined_Degree_for_Veterans_receiving_compensation_at theEnd_FY2012.xlsx
+03/24/2014  02:32 PM            11,016 Service_Connected_Disabilities_at_the_End_of_FY2012_by_Period_of_Service.xlsx
+03/24/2014  02:22 PM            12,638 Service_Connected_Disabilities_by_body_system_for_Veterans_Who_began_Receiving_Compensation_by_FY.xlsx
+03/24/2014  02:18 PM            11,512 Service_connected_disability_benefits_by_combined_percent_of_Disability_for_veterans_receiving_compensation_FY2012.xlsx
+02/25/2014  11:01 AM            10,367 Specially-Adapted_Housing_Grants_and_Direct_Loans_During_Fiscal_Year_2012.xlsx
+02/24/2014  05:27 PM            10,713 Status_of_Loans_Guaranteed_by_Fiscal_Year.xlsx
+03/24/2014  01:26 PM            10,692 Summary_of_Active_Compensation_Benefit_Accounts_at_the_End_of_FY2012.xlsx
+03/24/2014  01:25 PM            10,689 Summary_of_Beneficiaries_who_began_Receiving_compensation_benefits_during_FY2012.xlsx
+02/24/2014  04:03 PM            11,116 Summary_of_Home_Loan_Guaranty_Entitlements_and_Other_Eligibility_Criteria.xlsx
+03/24/2014  02:54 PM            11,192 Surviving_spouses_receiving_DIC_by_age_at_the_end_of_FY2012.xlsx
+05/04/2014  04:49 PM               163 Test_Uploaded-File 20140504.txt
+03/24/2014  02:26 PM            17,613 Total_Service_Connected_Disabilities_for_Veterans_Receiving_Compensation_at_the_End_of_FY2012_by_pct_and_body_system.xlsx
+02/26/2014  02:40 PM            11,298 Training Availabl under Education Benefit Programs.xlsx
+02/24/2014  04:46 PM            10,840 Types_and_Characteristics_of_Loans_Guaranteed_During_Fiscal_Year_2012.xlsx
+02/26/2014  03:08 PM            11,027 Unique Beneficiaries and Payments by Fiscal Year ($000).xlsx
+02/24/2014  03:48 PM            10,524 VA_Home_Loans_Guaranteed_by_Fiscal_Year.xlsx
+03/24/2014  02:29 PM            12,796 Veterans_Receiving_Service_Connected_Disability_Benefits_at_the_End_of_FY2012.xlsx
+03/24/2014  12:00 PM            10,901 Veterans_Receiving_Service_Connected_Disbility_Benefits_at_the_End_of_FY2012_by_Period_of_Service.xlsx
+03/24/2014  01:28 PM            11,414 Veterans_who_began_Receiving_Disability_Compensation_by_Combined_Degree_During_FY2012.xlsx
+              80 File(s)        895,477 bytes
+               2 Dir(s)  267,601,563,648 bytes free
